@@ -1,0 +1,13 @@
+antiorm==1.2.1
+asgiref==3.7.2
+db==0.1.1
+db-sqlite3==0.0.1
+Django==4.1
+django-cors-headers==4.3.1
+django-extensions==3.2.3
+djangorestframework==3.14.0
+PyJWT==1.7.1
+python-decouple==3.6
+pytz==2022.2.1
+sqlparse==0.4.2
+tzdata==2022.2
